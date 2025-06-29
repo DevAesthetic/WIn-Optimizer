@@ -26,9 +26,9 @@ A user-friendly PowerShell-based toolkit for optimizing Windows PCs and laptops.
 - Run as Administrator for best results
 
 ## File Structure
-- `Optimizer-UI.ps1` — Main interactive menu
+- `win-tool.ps1` — Main interactive menu
 - `workflow/` — Contains all optimization scripts, organized by device and mode
-- `run-optimizer.bat` — Batch file to launch the optimizer easily
+- `run.bat` — Batch file to launch the optimizer easily
 
 ## Disclaimer
 Use at your own risk. Some tweaks may affect system behavior. Always back up important data before applying system-wide changes.
